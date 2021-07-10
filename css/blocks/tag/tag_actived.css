@@ -1,0 +1,6 @@
+.tag_actived
+ {
+  border: 0;
+  background-color: var(--color-primery);
+  color: var(--color-light);
+}

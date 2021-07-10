@@ -1,0 +1,7 @@
+.icon__square_violent {
+  background-color: var(--color-lily);
+background-image: url("../../../../img/icons/arrow.svg");
+background-repeat: no-repeat;
+background-position: center center;
+background-size: 33.3%;
+}

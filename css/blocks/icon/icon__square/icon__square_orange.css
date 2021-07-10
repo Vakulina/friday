@@ -1,0 +1,7 @@
+.icon__square_orange {
+  background-color: var(--color-orange);
+  background-image: url("../../../../img/icons/snake.svg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 33.3%;
+}

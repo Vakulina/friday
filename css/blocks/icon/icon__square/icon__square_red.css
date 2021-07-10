@@ -1,0 +1,7 @@
+.icon__square_red {
+  background-color: var(--color-red);
+  background-image: url("../../../../img/icons/heart.svg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 33.3%;
+}

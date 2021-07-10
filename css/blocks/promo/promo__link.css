@@ -1,0 +1,16 @@
+.promo__link {
+  padding-left: 27px;
+  padding-right: 9px;
+  height: 23px;
+  background-image: url("../../../img/icons/play.svg");
+  background-repeat: no-repeat;
+  background-position: 0 2px;
+  color: var(--color-primery);
+  text-decoration: underline;
+  transition: 0.3s;
+}
+.promo__link:hover {
+  background-image: url("../../../img/icons/play_hover.svg");
+  color: var(--color-additional);
+  text-decoration: underline;
+}

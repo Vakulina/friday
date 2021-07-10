@@ -1,0 +1,12 @@
+.navigation__link {
+  text-decoration: none;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  color: var(--color-heading);
+}
+.navigation__link:hover {
+  color: var(--color-primery);
+}

@@ -1,0 +1,7 @@
+.promo__buttons {
+  margin-top: 45px;
+  max-width: 389px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

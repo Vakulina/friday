@@ -12,5 +12,22 @@
 @import url("../css/blocks/button/button_colored.css");
 @import url("../css/blocks/header/header__buttons.css");
 @import url("../css/blocks/header/header__button.css");
-
-
+@import url("../css/blocks/promo/promo__img.css");
+@import url("../css/blocks/promo/promo__wrapper.css");
+@import url("../css/blocks/promo/promo__content.css");
+@import url("../css/blocks/promo/promo__buttons.css");
+@import url("../css/blocks/promo/promo__button.css");
+@import url("../css/blocks/promo/promo__subtitle.css");
+@import url("../css/blocks/promo/promo__link.css");
+@import url("../css/blocks/link-button/link-button.css");
+@import url("../css/blocks/navigation/navigation__link.css");
+@import url("../css/blocks/tools/tools__title.css");
+@import url("../css/blocks/tools/tools__wrapper.css");
+@import url("../css/blocks/layout-4-column/layout-4-column.css");
+@import url("../css/blocks/tools/tools__button.css");
+@import url("../css/blocks/tool/tool.css");
+@import url("../css/blocks/icon/icon__square/icon__square.css");
+@import url("../css/blocks/icon/icon__square/icon__square_blue.css");
+@import url("../css/blocks/icon/icon__square/icon__square_orange.css");
+@import url("../css/blocks/icon/icon__square/icon__square_red.css");
+@import url("../css/blocks/icon/icon__square/icon__square_violent.css");

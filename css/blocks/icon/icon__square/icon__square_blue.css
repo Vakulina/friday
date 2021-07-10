@@ -1,0 +1,7 @@
+.icon__square_blue {
+  background-color: var(--color-blue);
+  background-image: url("../../../../img/icons/clock.svg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 33.3%;
+}

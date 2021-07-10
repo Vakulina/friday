@@ -1,0 +1,6 @@
+
+@import url("../../style.css");
+.logo-svg:hover {
+  fill: var(--color-additional);
+  transition: 0.3s;
+}

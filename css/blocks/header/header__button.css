@@ -1,0 +1,6 @@
+.header__button {
+  margin-left: 14px;
+}
+.header__button:first-child {
+  margin-left: 0px;
+}

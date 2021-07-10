@@ -1,0 +1,65 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: 'Open Sans', Verdana, sans-serif;
+}
+:root {
+  --color-primery: #FF9900;
+  --color-light: white;
+  --color-additional: #FF7549;
+  --color-background: #FFEEE1;
+  --color-button-text: #173A56;
+  --color-hovered: #BCD0E5;
+  --color-link: #1943EF;
+  --color-tag: #F5F5F5;
+  --color-text: #544837;
+  --color-heading: #2F281E;
+  --color-border: #D7D7D7;
+  --color-lily: #7752BE;
+  --color--orange: #FAB005;
+  --color-red: #F03E3D;
+  --color-blue: #4DADF7;
+  --content-width: 1197px;
+  --tablet-width: 768px;
+  --mobile-big-width: 414px;
+  --mobile-little-width: 320px;
+
+
+}
+h1 {
+  font-family: 'Poppins', Verdana, sans-serif;
+  font-size: 44px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 54px;
+}
+h2{
+font-size: 34px;
+font-style: normal;
+font-weight: 700;
+line-height: 46px;
+}
+h3{
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 34px;
+text-align: left;
+}
+h4{
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 30px;
+text-align: left;
+}
+h5{
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 26px;
+text-align: left;
+}

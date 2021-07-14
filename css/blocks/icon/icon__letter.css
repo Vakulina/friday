@@ -1,0 +1,15 @@
+.icon__letter{
+  display: inline-block;
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  background-color: var(--color-light);
+  background-image: url(../../../img/icons/letter.svg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  margin-right: 10px;
+ 
+
+
+ 
+}

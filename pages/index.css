@@ -41,7 +41,8 @@
 @import url("../css/blocks/tag/tag_actived.css");
 @import url("../css/blocks/tag/tag_inactived.css");
 @import url("../css/blocks/strategy/strategy__title.css");
-@import url("../css/blocks/about-us/about-us__description.css");
+@import url("../css/blocks/about-us/about-us__description/about-us__description.css");
+@import url("../css/blocks/about-us/about-us.css");
 @import url("../css/blocks/employee/employee.css");
 @import url("../css/blocks/employee/employee__content.css");
 @import url("../css/blocks/employee/employee__photo.css");
@@ -49,3 +50,17 @@
 @import url("../css/blocks/employee/employee__name.css");
 @import url("../css/blocks/employee/employee__contact.css");
 @import url("../css/blocks/layout-2-column/layout-2-column.css");
+@import url("../css/blocks/contact-us/contact-us__form.css");
+@import url("../css/blocks/contact-us/contact-us__content.css");
+@import url("../css/blocks/contact-us/contact-us__text.css");
+@import url("../css/blocks/icon/icon__letter.css");
+@import url("../css/blocks/icon/icon__phone.css");
+@import url("../css/blocks/contact-us/contact-us__link.css");
+@import url("../css/blocks/text-link/text-link.css");
+@import url("../css/blocks/contact-us/contact-us__name.css");
+@import url("../css/blocks/contact-us/contact-us__email.css");
+@import url("../css/blocks/contact-us/contact-us__question.css");
+@import url("../css/blocks/footer/footer__wrapper.css");
+@import url("../css/blocks/footer-navigation/footer-navigation.css");
+@import url("../css/blocks/footer-navigation/footer-navigation__links.css");
+

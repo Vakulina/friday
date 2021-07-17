@@ -9,3 +9,12 @@
   font-family: 'Open Sans', Verdana, sans-serif;
   border-radius: 4px;
 }
+.button:focus{
+  border: 3px solid var(--color-additional);
+  outline: none;
+}
+@@media (max-width : 500px) {
+.button{
+  padding: 2% 5% 2%;
+}
+}

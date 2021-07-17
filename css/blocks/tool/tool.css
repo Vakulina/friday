@@ -1,5 +1,12 @@
 .tool {
-  max-width: 262px;
-  padding-right: 60px;
+  max-width: 22%;
+  padding-right: 5%;
+}
+@media (max-width : 768px) {
+	/* стили для планшета */
+  .tool{
+    width: 50%;
+    min-width: 230px;
+  }
 
 }

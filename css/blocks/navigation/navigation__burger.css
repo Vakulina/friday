@@ -1,0 +1,31 @@
+.navigation__burger{
+  
+}
+@media (max-width : 768px) {
+	/* стили для планшета */
+
+
+.navigation__burger > span,
+.navigation__burger > span::before,
+.navigation__burger > span::after {
+  display: block;
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  width: 50px;
+  height: 2px;
+  background-color: var(--color-heading);
+  transition-duration: .25s;
+}
+.navigation__burger > span::before {
+  content: '';
+  right: 0;
+  top: -10px;
+  border-style:none;
+}
+.navigation__burger > span::after {
+  content: '';
+  top: 10px;
+  right: 0;
+}
+}

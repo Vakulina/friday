@@ -1,0 +1,8 @@
+
+  @media (max-width : 768px) {
+    .index-page{
+
+margin-top: 70px; /* Отступ сверху */
+display: block;
+      }
+    }

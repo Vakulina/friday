@@ -63,4 +63,11 @@
 @import url("../css/blocks/footer/footer__wrapper.css");
 @import url("../css/blocks/footer-navigation/footer-navigation.css");
 @import url("../css/blocks/footer-navigation/footer-navigation__links.css");
-
+@import url("../css/blocks/strategy/strategy__image/strategy__image.css");
+@import url("../css/blocks/contact-us/contact-us__wrapper/contact-us__wrapper.css");
+@import url("../css/blocks/logo/logo__footer.css");
+@import url("../css/blocks/navigation/navigation__burger.css");
+@import url("../css/blocks/navigation/navigation__toggle.css");
+@import url("../css/blocks/logo/logo__header.css");
+@import url("../css/blocks/index-page/index-page.css");
+@import url("../css/blocks/logo/logo__link.css");

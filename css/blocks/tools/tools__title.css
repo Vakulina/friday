@@ -2,5 +2,10 @@
 width: 462px;
 text-align: center;
 margin: 66px auto 70px auto;
-
+}
+@media (max-width : 762px) {
+	/* стили для планшета */
+  .tools__title {
+    max-width: 100%;
+  }
 }

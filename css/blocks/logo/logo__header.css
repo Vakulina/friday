@@ -1,0 +1,19 @@
+.logo__header{
+
+}
+@media (max-width : 768px) {
+	.logo__header{
+    width: 32px;
+    height: 32px;
+    object-fit:cover;
+    object-position: 0 0;
+    position: absolute;
+    top: 15px;
+    left: 30px;
+  }
+}
+@media (max-width : 435px) {
+  .logo__header{
+    display: none;
+  }
+}

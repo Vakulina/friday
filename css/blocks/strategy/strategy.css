@@ -1,3 +1,14 @@
 .strategy {
-  max-width: 377px;
+  max-width: calc((100% - 40px)/3);
+}
+@media (max-width : 768px) {
+	/* стили для планшета */
+  .strategy {
+    max-width: calc((100% - 20px)/2);
+  }
+}
+@media (max-width : 500px){
+  .strategy {
+    max-width: calc((100% - 20px));
+  }
 }

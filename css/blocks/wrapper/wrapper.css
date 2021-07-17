@@ -1,6 +1,17 @@
 .wrapper{
-  
+  box-sizing: border-box;
+ 
   max-width: var(--content-width);
   margin: 0 auto;
+  padding: 0 10px;
 
+
+}
+@media (max-width : 768px) {
+	/* стили для планшета */
+  .wrapper {
+    flex-direction: column;
+  justify-content: center;
+  align-items: center;
+    }
 }

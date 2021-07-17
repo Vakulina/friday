@@ -1,0 +1,5 @@
+.logo__link:focus{
+  outline: none;
+  border: 3px solid var(--color-additional);
+
+}

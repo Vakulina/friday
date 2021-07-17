@@ -10,3 +10,23 @@
 .navigation__link:hover {
   color: var(--color-primery);
 }
+@media (max-width : 768px) {
+  .navigation__link{ 
+    display: block;
+  padding: 20px 12px;
+  font-size: 20px;
+  font-weight: 600;
+  text-decoration: none;
+
+  }
+
+.navigation__link:hover{
+
+  color: var(--color-heading);
+}
+
+}
+.navigation__link:focus{
+  outline: none;
+  border: 3px solid var(--color-additional);
+}

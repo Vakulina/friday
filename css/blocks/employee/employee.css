@@ -1,7 +1,27 @@
 .employee {
+  box-sizing: border-box;
   display: flex;
   align-items: center;
-  max-width: 377px;
-  padding: 15px;
-
+  justify-content: space-between;
+  overflow: auto;
+  min-height: 128px;
+  flex-basis: 370px ;
+   padding-left: 15px;
+   margin: 10px;
+}
+@media (max-width : 1190px) {
+	/* стили для планшета */
+  .employee {
+flex-direction: column;
+max-width: calc((100%-60px)/3);
+margin: 0;
+    }
+}
+@media (max-width : 500px) {
+	/* стили для планшета */
+  .employee {
+flex-direction: row;
+max-width: 100%;
+margin: 10px;
+    }
 }

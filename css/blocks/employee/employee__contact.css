@@ -6,3 +6,7 @@ line-height: 26px;
 color: var(--color-link);
 text-decoration: none;
 }
+.employee__contact:focus{
+  outline: none;
+  border: 3px solid var(--color-additional);
+}

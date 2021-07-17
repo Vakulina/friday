@@ -14,3 +14,8 @@
   color: var(--color-additional);
   text-decoration: underline;
 }
+
+.promo__link:focus{
+  outline: none;
+  border: 3px solid var(--color-additional);
+}

@@ -1,3 +1,8 @@
 .promo__content {
 max-width: 550px;
 }
+@media all and (max-width: 768px) {
+  .promo__content {
+    text-align: center;
+    min-width: 100%;
+  }}

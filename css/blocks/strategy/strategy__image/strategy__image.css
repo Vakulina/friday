@@ -1,0 +1,10 @@
+.strategy__image{
+  width: 100%;
+  height: auto;
+}
+
+@media all and (max-width: 768px) {
+  .strategy__image {
+    object-fit: cover;
+  }
+}

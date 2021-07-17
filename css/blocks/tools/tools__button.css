@@ -3,3 +3,10 @@
   margin-top: 64px;
   text-align: center;
 }
+@media (max-width : 768px) {
+	/* стили для планшета */
+  .tools__button {
+    margin-top: 3%;
+  }
+
+}

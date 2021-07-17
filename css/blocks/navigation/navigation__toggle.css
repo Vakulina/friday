@@ -1,0 +1,24 @@
+.navigation__toggle{
+  display: none;
+
+}
+@media (max-width : 768px) {
+	/* стили для планшета */
+
+
+#navigation__toggle:checked ~ .navigation__burger > span {
+  transform: rotate(45deg);
+}
+#navigation__toggle:checked ~ .navigation__burger> span::before {
+  top: 0;
+  transform: rotate(0);
+}
+#navigation__toggle:checked ~ .navigation__burger > span::after {
+  top: 0;
+  transform: rotate(90deg);
+}
+#navigation__toggle:checked ~ .navigation {
+  visibility: visible;
+  left: 0;
+}
+}

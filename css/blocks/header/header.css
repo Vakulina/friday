@@ -2,3 +2,14 @@
   background: var(--color-light);
   padding: 15px 0 17px 0;
 }
+@media (max-width : 768px) {
+	/* стили для планшета */
+.header {
+
+position: fixed;
+width: 100%;
+top: 0;
+z-index: 100;
+}
+
+}

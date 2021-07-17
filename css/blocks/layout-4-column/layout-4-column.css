@@ -4,3 +4,11 @@
 
 
 }
+@media (max-width : 768px) {
+	/* стили для планшета */
+  .layout-4-column {
+flex-wrap: wrap;
+justify-content: space-evenly;
+  }
+
+}

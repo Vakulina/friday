@@ -1,3 +1,4 @@
 .employee__content {
-  width: 221px;
+  
+  flex-basis: fill;
 }

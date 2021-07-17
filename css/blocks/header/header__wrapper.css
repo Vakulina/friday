@@ -3,3 +3,13 @@
   align-items: center;
   justify-content: space-between;
 }
+@media (max-width : 768px) {
+	/* стили для планшета */
+  .header__wrapper {
+  flex-direction: row;
+  justify-content:space-evenly;
+  padding-right: 90px;
+
+  
+    }
+}

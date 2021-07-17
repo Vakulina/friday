@@ -1,5 +1,12 @@
 .promo__img {
-    object-fit: cover;
+    object-fit: contain;
     object-position: 50% 50%;
-
+   max-width: 50%;
+}
+@media (max-width : 768px) {
+	/* стили для планшета */
+    .promo__img {
+        max-width: 80%;
+      
+    }
 }

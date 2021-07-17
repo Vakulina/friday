@@ -8,3 +8,10 @@
   text-align: left;
   
   }
+  .link-button:hover{
+    color: var(--color-additional);
+  }
+.link-button:focus{
+  outline: none;
+  border: 3px solid var(--color-additional);
+}

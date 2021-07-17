@@ -4,3 +4,12 @@
   margin-right: 22px;
 
 }
+@media (max-width : 768px) {
+	/* стили для планшета */
+  .contact-us__content {
+    padding: 0;
+    margin: 0;
+    flex-basis: 90%;
+
+    }
+}

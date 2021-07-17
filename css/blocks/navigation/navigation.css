@@ -1,3 +1,24 @@
 .navigation{
   display: flex;
+  padding: 0;
+}
+@media (max-width : 768px) {
+	/* стили для планшета */
+
+
+.navigation {
+  display: block;
+  position: fixed;
+  visibility: hidden;
+  padding-top: 80px;
+  width: 80%;
+  height: 100%;
+  top: 80px;
+   right: 0px;
+  margin: 0 0 0 auto;
+  list-style: none;
+  background-color: var(--color-border);
+  opacity: 0.95;
+  box-shadow: 0px 4px 20px rgb(0 0 0 / 5%);
+}
 }

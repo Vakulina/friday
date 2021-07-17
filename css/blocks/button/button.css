@@ -13,8 +13,3 @@
   border: 3px solid var(--color-additional);
   outline: none;
 }
-@media (max-width : 500px) {
-.button{
-  padding: 2% 5% 2%;
-}
-}

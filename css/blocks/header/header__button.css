@@ -9,7 +9,7 @@
   border: 3px solid var(--color-additional);
 }
 
-@media (max-width : 330px) {
+@media (max-width : 350px) {
   .header__button{
   padding: 5px 12px 13px;
   font-family: Open Sans;
